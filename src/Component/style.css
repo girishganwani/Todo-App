@@ -1,0 +1,30 @@
+.header {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+.todoHeader {
+    width: 50%;
+    border: 2px solid green;
+    padding: 10px;
+}
+
+.form {
+    margin-left: 35%;
+    margin-right: 25%;
+    width: 50%;
+    padding: 10px;
+    display: flex;
+}
+
+.listItem {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+    font-size: 20px;
+}
